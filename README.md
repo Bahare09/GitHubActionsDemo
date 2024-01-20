@@ -38,3 +38,6 @@ Feature in GitHub to create custom Automated Workflows
  steps:
   
  Chain Jobs - :needs
+
+ WORKFLOW : collection of jobs, defined in a YAML file
+
